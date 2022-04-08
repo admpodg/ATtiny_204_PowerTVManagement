@@ -1,0 +1,10 @@
+*.eep
+*.elf
+*.hex
+*.lss
+*.map
+*.srec
+*.d
+*.o
+*.mk
+ATtiny_204_PowerTVManagement/Debug/Makefile
