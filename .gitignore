@@ -8,3 +8,5 @@
 *.o
 *.mk
 ATtiny_204_PowerTVManagement/Debug/Makefile
+*.cproj
+*.atsuo
